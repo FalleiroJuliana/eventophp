@@ -3,7 +3,7 @@
 }
 @media screen and (min-width: 768px){
 	.superior{
-		background-color: #37b;
+		background-color: #7a1200;
 		color: #fff;
 		background-image: url("../imagem/fundo.png");
 		background-size: 100% 100%;	
@@ -12,7 +12,7 @@
 }
 @media screen and (max-width: 768px){
 	.superior{
-		background-color: #37b;
+		background-color: #7a1200;
 		color: #fff;
 		background-image: url("../imagem/fundo.png");
 		background-size: 100% 100%;	
